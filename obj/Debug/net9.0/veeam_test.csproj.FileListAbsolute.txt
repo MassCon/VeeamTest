@@ -1,0 +1,14 @@
+/Users/andrewrudenko/veeam_test/bin/Debug/net9.0/veeam_test
+/Users/andrewrudenko/veeam_test/bin/Debug/net9.0/veeam_test.deps.json
+/Users/andrewrudenko/veeam_test/bin/Debug/net9.0/veeam_test.runtimeconfig.json
+/Users/andrewrudenko/veeam_test/bin/Debug/net9.0/veeam_test.dll
+/Users/andrewrudenko/veeam_test/bin/Debug/net9.0/veeam_test.pdb
+/Users/andrewrudenko/veeam_test/obj/Debug/net9.0/veeam_test.GeneratedMSBuildEditorConfig.editorconfig
+/Users/andrewrudenko/veeam_test/obj/Debug/net9.0/veeam_test.AssemblyInfoInputs.cache
+/Users/andrewrudenko/veeam_test/obj/Debug/net9.0/veeam_test.AssemblyInfo.cs
+/Users/andrewrudenko/veeam_test/obj/Debug/net9.0/veeam_test.csproj.CoreCompileInputs.cache
+/Users/andrewrudenko/veeam_test/obj/Debug/net9.0/veeam_test.dll
+/Users/andrewrudenko/veeam_test/obj/Debug/net9.0/refint/veeam_test.dll
+/Users/andrewrudenko/veeam_test/obj/Debug/net9.0/veeam_test.pdb
+/Users/andrewrudenko/veeam_test/obj/Debug/net9.0/veeam_test.genruntimeconfig.cache
+/Users/andrewrudenko/veeam_test/obj/Debug/net9.0/ref/veeam_test.dll
